@@ -1,4 +1,4 @@
-### CUT OUT EYES 👁
+### SUPA IDOL 👁
 
 
 
