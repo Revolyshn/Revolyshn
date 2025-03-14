@@ -4,7 +4,9 @@
 **shcizo tech | shitpost lover**
 
 ---
+
 <img src="https://count.getloli.com/get/@Revolyshn?theme=rule34"/>
+
 ---
 
 ### 🛠️ **Tech Stack**
@@ -22,7 +24,7 @@
 
 ### 🎶 **Currently Listening To**
 
-[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify)](https://open.spotify.com/user/gor05)
+[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify)](https://open.spotify.com/user/t80vzc83lm8tvkn56npzkc8tj?si=exrKrjTDQeqLiA0e-LOksw)
 
 
 ---
