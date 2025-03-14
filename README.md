@@ -20,8 +20,7 @@
 
 ### 🎶 **Currently Listening To**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t80vzc83lm8tvkn56npzkc8tj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t80vzc83lm8tvkn56npzkc8tj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=t80vzc83lm8tvkn56npzkc8tj&redirect=true)
 
 ---
 
