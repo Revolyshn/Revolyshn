@@ -24,7 +24,7 @@
 
 ### 🎶 **Currently Listening To**
 
-[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify)](https://open.spotify.com/user/t80vzc83lm8tvkn56npzkc8tj?si=exrKrjTDQeqLiA0e-LOksw)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t80vzc83lm8tvkn56npzkc8tj&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 ---
