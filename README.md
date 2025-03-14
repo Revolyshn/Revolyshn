@@ -1,7 +1,7 @@
 #  revolyshn🌸🐍
 
 
-**shcizo tech | shitpost lover**
+**schizo tech | shitpost lover**
 
 ---
 
