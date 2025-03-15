@@ -1,5 +1,4 @@
-
-#revolyshn🌸🐍
+# revolyshn🌸🐍
 
 **schizo tech | shitpost lover**
 
