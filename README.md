@@ -1,23 +1,3 @@
-
-
-
-
-
----
-
-### 🛠️ **Tech Stack**
-
-- **Languages:** C#, Go, Kotlin
-- **Databases:** PostgreSQL, MSSQL
-
-
----
-
-
-
----
-
-
 # 🐍 Me:
 🔧 I’m currently working on nothing<br>
 
