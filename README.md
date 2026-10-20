@@ -2,7 +2,7 @@
 
 
 ---
-<img src="https://count.getloli.com/get/@Revolyshn?theme=rule34"/>
+
 
 
 ### 🐱‍💻 **Fun Fact**
